@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809442426116",
+    "firebase_url": "https://asforce-404c7-default-rtdb.firebaseio.com",
+    "project_id": "asforce-404c7",
+    "storage_bucket": "asforce-404c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809442426116:android:4fd2e8fe149b51a2a46451",
+        "android_client_info": {
+          "package_name": "ogidanhope.asforce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809442426116-7rl5e54k762gtkr2utos40nr6rr0eeah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ogidanhope.asforce",
+            "certificate_hash": "4823d6a946d7fadaf092bd72e64004425fed2d91"
+          }
+        },
+        {
+          "client_id": "809442426116-34982d6fnh6mt35rfqki41mkcb1rgoga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYi1ovEcRTxSn-p05BiX3QF7EeQnEmu3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809442426116-34982d6fnh6mt35rfqki41mkcb1rgoga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
